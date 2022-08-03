@@ -1,24 +1,25 @@
 # co-webReserve
 
-# Discuss
+## Discuss
 
-> *VIPmember*
-> 
+### VIPmember
+>
 > * member_id (VIP0001), name, join_time
 >   * member_data
->      * birthday, address, gender
+>     * birthday, address, gender
 
-> *employee, employer*
+### employee, employer
 >
 > * member_id (E0001), name, join_time, permission
->    * member_data
->       * birthday,address,gender
->       * id_card
->       * account,password
+>   * member_data
+>     * birthday,address,gender
+>     * id_card
+>     * account,password
 
-> color
-> 
+### color
+>
 > * 274060-335c81-65afff-1b2845-5899e2
 > * 000505-3b3355-5d5d81-bfcde0-fefcfd
 
-- https://ithelp.ithome.com.tw/articles/10203758
+* <https://ithelp.ithome.com.tw/articles/10203758>
+* <https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint>

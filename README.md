@@ -3,12 +3,9 @@
 # Discuss
 
 > VIPmember
->
-> * member_id (VIP0001), name, join_time
-> >
->   * member_data
-> > >
->     * birthday, address, gender
+ * member_id (VIP0001), name, join_time
+   * member_data
+    * birthday, address, gender
 
 > employee, employer
 >

@@ -1,14 +1,14 @@
-# co>webReserve
+# co-webReserve
 
 # Discuss
 
 > VIPmember
 >
-> > member_id (VIP0001), name, join_time
+> * member_id (VIP0001), name, join_time
 > >
-> > > member_data
+>   * member_data
 > > >
-> > > > birthday, address, gender
+>     * birthday, address, gender
 
 > employee, employer
 >

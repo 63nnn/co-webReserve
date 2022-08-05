@@ -2,6 +2,12 @@
 
 ## Discuss
 
+### function
+>
+> * reserve
+> * view
+> * accumulation
+
 ### VIPmember
 >
 > * member_id (VIP0001), name, join_time
